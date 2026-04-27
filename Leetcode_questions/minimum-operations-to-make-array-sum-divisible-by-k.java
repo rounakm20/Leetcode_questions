@@ -7,7 +7,6 @@ class Solution {
         }
         
         int r = (int)(sum % k);
-        
         return r;
     }
 }
