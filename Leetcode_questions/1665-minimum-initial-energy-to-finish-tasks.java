@@ -17,7 +17,6 @@ class Solution {
 
             current -= t[0];
         }
-
         return energy;
     }
 }
